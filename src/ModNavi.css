@@ -1,0 +1,16 @@
+#navbarMod{
+    background-color: white
+  }
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  .navbar-brand>img {
+    padding: 7px 14px;
+  }
+  
+  #imgMod {
+    width: 5%;
+    height: auto;
+  }
+  
